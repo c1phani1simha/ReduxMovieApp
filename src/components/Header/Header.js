@@ -21,7 +21,7 @@ const Header = () => {
  
    <div className='logo'>
    <Link to="/">
-    Movie App
+    Simha Theatre
     </Link>
     </div>
    <div className='search-bar'>
